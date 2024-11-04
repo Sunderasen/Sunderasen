@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS cloud and Devops Tools**
 
-- 👨‍💻 protofolio [https://sunderasen.github.io/](https://sunderasen.github.io/)
+- 👨‍💻 protfolio [https://sunderasen.github.io/](https://sunderasen.github.io/)
 
 - 📫 How to reach me **sunderasen11@outlook.com**
 
