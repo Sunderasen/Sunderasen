@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUNDERASEN</h1>
-<h3 align="center">A passionate Clous Ops Engineer from India</h3>
+<h3 align="center">A passionate Cloud Ops Engineer from India</h3>
 
 - 🌱 I’m currently learning **AWS cloud and Devops Tools**
 
